@@ -1,0 +1,4 @@
+#adminmenu .menu-icon-case-study:hover div.wp-menu-image:before,
+#adminmenu .menu-icon-case-study.opensub > a.menu-top div.wp-menu-image:before {
+  color: #fff;
+}
