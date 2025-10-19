@@ -1,6 +1,6 @@
 # Custom Case Study Feature
 
-This guide explains the custom "Case Study" feature.
+This guide explains the custom "Case Study" feature, implemented within the `TwentyTwentyFive_Case_Studies` class in `wp-content/themes/twentytwentyfive/functions.php`.
 
 ## 1. A New "Case Study" Post Type
 
